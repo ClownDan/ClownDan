@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kevodan
 - 👀 I’m interested in the hacking world
-- 🌱 I’m currently learning high school
+- 🌱 I’m currently learning Secondary school
 - 💞️ I’m looking to collaborate on termux
 - 📫 How to reach me:no
 
